@@ -45,7 +45,7 @@ I'm a mostly self-taught full-stack developer and modder who decided to take thi
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hansnery&repo=google-homepage)](https://github.com/hansnery/google-homepage)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hansnery&repo=members-only)](https://github.com/hansnery/members-only)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hansnery&repo=knights_travail)](https://github.com/hansnery/knights_travail)
-[<img src="https://media.moddb.com/cache/images/mods/1/54/53113/thumb_620x2000/Captura_de_Tela_57-compressed.jpg" alt="Realms in Exile" style="width:800px;height:370px;">](https://www.moddb.com/mods/age-of-the-rings-realms-in-exile/images)
+[<img src="https://media.moddb.com/cache/images/mods/1/54/53113/thumb_620x2000/Captura_de_Tela_57-compressed.jpg" alt="Realms in Exile" style="width:800px;height:370px;">](https://www.moddb.com/mods/age-of-the-rings-realms-in-exile/)
 
 #
 
