@@ -3,8 +3,8 @@
 **`⚒️ Digital Craftsman ⚒️`** 
 
 <p align="center">
-     <img alt="Doors of Drin" width="64" height="80" src="https://i.etsystatic.com/25481867/r/il/4141f6/2580567154/il_570xN.2580567154_da4i.jpg"/><br>
-     <img src="https://readme-typing-svg.herokuapp.com?font=&center=true&width=380&height=45&lines=The+Doors+of+Durin,+Lord+of+Moria.;Speak,+friend,+and+enter.;Mellon!" />
+     <img alt="Doors of Durin" width="64" height="80" src="https://user-images.githubusercontent.com/19158296/211917429-a15d19dc-8e62-4539-87a9-1a8927e4c0c7.png"/><br>
+     <img src="https://readme-typing-svg.herokuapp.com?font=Ringbearer&color=42AFFF&center=true&width=380&height=45&lines=The+Doors+of+Durin,+Lord+of+Moria.;Speak,+friend,+and+enter.;Mellon!" />
  
 </p>
 
