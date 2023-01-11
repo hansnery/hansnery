@@ -1,9 +1,10 @@
 # 🚀 Hans Oliveira
 
-**`Digital Craftsman`**
+**`Digital Craftsman`** 
 
 <p align="center">
-     <img src="https://readme-typing-svg.herokuapp.com?font=&center=true&width=380&height=45&lines=The+Doors+of+Durin,+Lord+of+Moria.;Speak,+friend,+and+enter.;Mellon!;Ruby+on+Rails;Java;PHP;Javascript;CSS;Bulma;TailwindçAnd+more!" />
+     <img alt="Doors of Drin" width="64" height="80" src="https://i.etsystatic.com/25481867/r/il/4141f6/2580567154/il_570xN.2580567154_da4i.jpg"/><br>
+     <img src="https://readme-typing-svg.herokuapp.com?font=&center=true&width=380&height=45&lines=The+Doors+of+Durin,+Lord+of+Moria.;Speak,+friend,+and+enter.;Mellon!" />
  
 </p>
 
