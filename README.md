@@ -1,6 +1,11 @@
 # 🚀 Hans Oliveira
 
-**`Digital Craftsman (Developer/Modder)`**
+**`Digital Craftsman`**
+
+<p align="center">
+     <img src="https://readme-typing-svg.herokuapp.com?font=&center=true&width=380&height=45&lines=The+Doors+of+Durin,+Lord+of+Moria.;Speak,+friend,+and+enter.;Mellon!;Ruby+on+Rails;Java;PHP;Javascript;CSS;Bulma;TailwindçAnd+more!" />
+ 
+</p>
 
 I'm currently enrolled as a Computer Programming student at Georgian College. I'm also a self-taught Ruby On Rails full-stack developer who decided to take things to the next level and go professional. All of my projects were built, planned and designed from the ground up by me (I do love to use frameworks, though!).
 
@@ -10,7 +15,7 @@ I'm currently enrolled as a Computer Programming student at Georgian College. I'
       <a href="https://www.moddb.com/mods/age-of-the-rings-realms-in-exile">
          <img alt="mod" title="Mod on ModDB" src="https://custom-icon-badges.demolab.com/badge/badge/moddb-View%20Mod-red?&labelColor=red&style=for-the-badge&logo=moddb&label=ModDB&logoColor=white?"/></a>
    </p>
-
+   
 ---
 
 ### 🧰 Languages and Tools
