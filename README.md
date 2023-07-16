@@ -8,7 +8,7 @@
  
 </p>
 
-I'm currently enrolled as a Computer Programming student at Georgian College. I'm also a self-taught Ruby On Rails full-stack developer who decided to take things to the next level and go professional. All of my projects were built, planned and designed from the ground up by me (I do love to use frameworks, though!).
+I'm currently enrolled as a Computer Programming student at Georgian College. I'm also a self-taught Ruby On Rails Full-stack Developer who decided to take things to the next level and go professional. All of my projects were built, planned and designed from the ground up by me (I do love to use frameworks, though!).
 
    <p align="left">
       <a href="https://github.com/hansnery?tab=followers">
