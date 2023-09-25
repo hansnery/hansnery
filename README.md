@@ -5,7 +5,6 @@
 <p align="center">
      <img alt="Doors of Durin" width="64" height="80" src="https://user-images.githubusercontent.com/19158296/211917429-a15d19dc-8e62-4539-87a9-1a8927e4c0c7.png"/><br>
      <img src="https://readme-typing-svg.herokuapp.com?font=Ringbearer&color=42AFFF&center=true&width=380&height=45&lines=The+Doors+of+Durin,+Lord+of+Moria.;Speak,+friend,+and+enter.;Mellon!" />
- 
 </p>
 
 I'm currently enrolled as a Computer Programming student at Georgian College. I'm also a self-taught Ruby On Rails Full-stack Developer who decided to take things to the next level and go professional. All of my projects were built, planned and designed from the ground up by me (I do love to use frameworks, though!).
@@ -37,9 +36,11 @@ I'm currently enrolled as a Computer Programming student at Georgian College. I'
 
 ### 📊 Stats
 
-![Hans Oliveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=hansnery&hide=stars,issues,contribs&count_private=true&show_icons=true)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=hansnery&theme=gruvbox&border_radius=4.5) -->
+<div>
+   <a href="https://github.com/hansnery">
+   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hansnery&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hansnery&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
 
 #
 
