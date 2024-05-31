@@ -7,7 +7,7 @@
      <img src="https://readme-typing-svg.herokuapp.com?font=Ringbearer&color=42AFFF&center=true&width=380&height=45&lines=The+Doors+of+Durin,+Lord+of+Moria.;Speak,+friend,+and+enter.;Mellon!" />
 </p>
 
-I'm currently enrolled as a Computer Programming student at Georgian College. I'm also a self-taught Ruby On Rails Full-stack Developer who decided to take things to the next level and go professional. All of my projects were built, planned and designed from the ground up by me (I do love to use frameworks, though!).
+Experienced software developer with a proven track record in software development, content management, graphic design, and curriculum development. Proficient in a variety of programming languages and technologies, with a particular expertise in Ruby on Rails, NodeJS, and React.
 
    <p align="left">
       <a href="https://github.com/hansnery?tab=followers">
