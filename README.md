@@ -34,6 +34,8 @@ Experienced software developer with a proven track record in software developmen
 
 #
 
+<!--
+
 ### 📊 Stats
 
 <div>
@@ -43,6 +45,8 @@ Experienced software developer with a proven track record in software developmen
 </div>
 
 #
+
+-->
 
 ### ⭐ Top Projects
 
